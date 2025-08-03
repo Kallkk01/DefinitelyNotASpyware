@@ -59,7 +59,7 @@ cd DefinitelyNotSpyware.bat
 ### 2. Install the dependency:
 This script requires pynput for keyboard event monitoring.
 
-pip install pynput
+pip install -r requirements.txt
 
 ### 3. Run the script:
 
